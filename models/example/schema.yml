@@ -1,3 +1,15 @@
+# schema.yml
+# Dbt Demo: COVID-19
+#
+# Copyright © 2023 djrlj694.dev. All rights reserved.
+#
+# A dbt data model configuration file. Declares properties for example data
+# models.
+#
+# REFERENCES:
+# 1. https://docs.getdbt.com/guides/best-practices/how-we-structure/5-the-rest-of-the-project
+# 2. https://docs.getdbt.com/reference/model-properties
+
 
 version: 2
 
